@@ -5,7 +5,7 @@
 - Pedal Collector
 - MyBlog：[Click here](https://xs020420.github.io)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xs020420&layout=compact&hide_border=false&langs_count=10)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yipwan&layout=compact&hide_border=false&langs_count=10)
 
 <!--
 **xs020420/xs020420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

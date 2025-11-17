@@ -3,7 +3,7 @@
 - Junior OR Researcher
 - Digtal Audio WorkStation Player
 - Pedal Collector
-- MyBlog：[Click here](https://xs020420.github.io)
+- MyBlog：[Click here](https://yipwan.github.io)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yipwan&layout=compact&hide_border=false&langs_count=10)
 

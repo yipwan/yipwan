@@ -1,6 +1,6 @@
 ### About me 👋
 - Mainly C++ / C# Writer
-- Junior OR Researcher
+- OR Researcher
 - Digtal Audio WorkStation Player
 - Pedal Collector
 - MyBlog：[Click here](https://yipwan.github.io)
